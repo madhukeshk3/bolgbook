@@ -23,6 +23,8 @@
     npm install
 ```
 
+> #### add configurations in congif/config.env file specifically PORT, MONGO_URI, GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET
+
 > #### to run the project in development mode use
 
 ```bash
